@@ -1,4 +1,4 @@
-## this part is responsible with 
+## this part is responsible with hgw
 ### this part provide functions:
 * a well-designed interface for users
 * provide a button to upload image and show the processed image, play the speak-up
