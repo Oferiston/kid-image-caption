@@ -60,7 +60,7 @@ if ($uploadOk == 0) {
             
             text {font-weight:bold;}
 
-            body{background-image: url('uploads/mountain.jpg'); font-size:40px; color: white; }
+            body{background-image: url('mountain.jpg'); font-size:40px; color: white; }
             h1{color: white;}
             h2{color: white;}
             hint{
