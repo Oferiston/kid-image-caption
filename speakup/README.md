@@ -1,4 +1,4 @@
-## this folder is responsible with yourName
+## this folder is responsible with wwc
 ### this folder include functions:
 * speak up a given text
 * can repeat the speak up process and pause when the user wants
