@@ -5,7 +5,7 @@
 * call functions in the model and speak-up folder
 Notice this part is used for final presentation so it should be made as fluent and elegant
 
-### functions can be used
+### functions that can be used
 * upload an image to a local folder with a given maximum size through a webpage running on local ip. If you wanna run on a server, server is needed. The webpage is designed with proper interaction and interface.
 
 ### meanings of the files
