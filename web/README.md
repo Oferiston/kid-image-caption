@@ -5,6 +5,9 @@
 * call functions in the model and speak-up folder
 Notice this part is used for final presentation so it should be made as fluent and elegant
 
+### functions can be used
+* upload an image to a local folder with a given maximum size through a webpage running on local ip. If you wanna run on a server, server is needed. The webpage is designed with proper interaction and interface.
+
 ### meanings of the files
 * upload.php this file need to create uploads/ directory as its firtst line targetdir is uploads/ which is the directory where the uploaded pictures will go. If you wanna see how it goes in your computer environment, please:
   - install php on your computer. You may search a tutorial online and the final result is to put your test.php file in the directory set for php when you installed 
