@@ -9,3 +9,7 @@
   - remark information
 * provide trained model files
 * list some notices for users
+
+-xwf
+* solve environmental problems
+* search for source codes and try to reappear
