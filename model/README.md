@@ -1,4 +1,4 @@
-## this part is responsible with xwf
+## this part is responsible with shr xwf
 ### this part's functions includes:
 * how to prepare the datasets for training and evaluating
 * code of the model
