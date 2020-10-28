@@ -13,7 +13,7 @@
 -xwf
 * run model on ubuntu
 * the picture of recognization have been uploaded(some results are not very precise)
-* the whole codes have been uploaded, if you are interested,you can run them on your ubuntu
+* the whole codes are in the following links ：https://pan.baidu.com/s/1pDjHQoH_DmVHs3bdPnPFCA   keys：5201 (if you are interested,you can run them on your ubuntu
 * the following commands are required:
 * ..........................................
 * python app.py
