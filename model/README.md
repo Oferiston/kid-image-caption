@@ -14,12 +14,11 @@
 * run model on ubuntu
 * the picture of recognization have been uploaded(some results are not very precise)
 * the whole codes have been uploaded, if you are interested,you can run them on your ubuntu
-    the following commands are required:
-    ..........................................
-    python app.py
-    8    % means that you can test 8 pictures this time,also you can change it into 1, 3, 9 ,or other number
-    pic/cat.jpg   % input your picture's relative path
-    ...........................................
-    then wait a few seconds you can see the recognisation result
-    
-    
+* the following commands are required:
+* ..........................................
+* python app.py
+* 8    % means that you can test 8 pictures this time,also you can change it into 1, 3, 9 ,or other number
+* pic/cat.jpg   % input your picture's relative path
+* ...........................................
+* then wait a few seconds you can see the recognisation result
+
