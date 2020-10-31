@@ -22,3 +22,7 @@
 * ...........................................
 * then wait a few seconds you can see the recognisation result
 
+-shr
+* download the MS-COCO dataset, can be used to train and test
+* vgg16.py and vgg16_weights.npz(maybe xwf download them), can be used to train, now it can recognize some images, however it makes some mistakes
+* learn some about LSTM, can be used to generate subtitle
