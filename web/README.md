@@ -20,7 +20,8 @@ Notice this part is used for final presentation so it should be made as fluent a
     If it still doesn't work, you may check the uploads folder's privilege. You need to change it to be able to written by other users. Use shell command **chmod o+w uploads** to finish this.
   
     If anymore issues existing for you, send me issues.
-  - here is how it works:
-    ![main](mainPage.png)
-    ![upload](uploadSucceeded.png)
-    ![upload](pictureInTheFolder.png)
+    
+    
+     ![main](mainPage.png)
+     ![upload](uploadSucceeded.png)
+     ![upload](pictureInTheFolder.png)
