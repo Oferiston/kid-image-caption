@@ -24,3 +24,4 @@ Notice this part is used for final presentation so it should be made as fluent a
     ![main](web/mainPage.png)
     ![upload](web/uploadSucceeded.png)
     ![upload](web/pictureInTheFolder.png)
+    ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
