@@ -22,8 +22,13 @@ Notice this part is used for final presentation so it should be made as fluent a
     If anymore issues existing for you, send me issues.
   - this is how it works:
   
-  
+   <p align="center">
+     <img src="mainPage.png" width="80%">
+     <img src="choosePicture.png" width="80%">
+     <img src="uploadSucceeded.png" width="80%">
+     <img src="pictureInTheFolder.png" width="80%">
+   </p>
      ![main](mainPage.png)
      ![choose](choosePicture.png)
      ![upload](uploadSucceeded.png)
-     ![upload](pictureInTheFolder.png)
+     ![folder](pictureInTheFolder.png)
