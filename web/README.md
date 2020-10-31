@@ -7,6 +7,14 @@ Notice this part is used for final presentation so it should be made as fluent a
 
 ### functions that can be used
 * upload an image to a local folder with a given maximum size through a webpage running on local ip. If you wanna run on a server, server is needed. The webpage is designed with proper interaction and interface.
+   - this is how it works:
+  
+   <p align="center">
+     <img src="mainPage.png" width="80%">
+     <img src="choosePicture.png" width="80%">
+     <img src="uploadSucceeded.png" width="80%">
+     <img src="pictureInTheFolder.png" width="80%">
+   </p>
 
 ### meanings of the files
 * upload.php this file need to create uploads/ directory as its firtst line targetdir is uploads/ which is the directory where the uploaded pictures will go. If you wanna see how it goes in your computer environment, please:
@@ -20,11 +28,3 @@ Notice this part is used for final presentation so it should be made as fluent a
     If it still doesn't work, you may check the uploads folder's privilege. You need to change it to be able to written by other users. Use shell command **chmod o+w uploads** to finish this.
   
     If anymore issues existing for you, send me issues.
-  - this is how it works:
-  
-   <p align="center">
-     <img src="mainPage.png" width="80%">
-     <img src="choosePicture.png" width="80%">
-     <img src="uploadSucceeded.png" width="80%">
-     <img src="pictureInTheFolder.png" width="80%">
-   </p>
