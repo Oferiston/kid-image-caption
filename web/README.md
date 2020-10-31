@@ -28,7 +28,3 @@ Notice this part is used for final presentation so it should be made as fluent a
      <img src="uploadSucceeded.png" width="80%">
      <img src="pictureInTheFolder.png" width="80%">
    </p>
-     ![main](mainPage.png)
-     ![choose](choosePicture.png)
-     ![upload](uploadSucceeded.png)
-     ![folder](pictureInTheFolder.png)
