@@ -15,6 +15,12 @@ Notice this part is used for final presentation so it should be made as fluent a
      <img src="uploadSucceeded.png" width="80%">
      <img src="pictureInTheFolder.png" width="80%">
    </p>
+* show the processed image and play the given audio file, can provide progress bar, volume bar to control the audio play which are not given in the version for simplicity. Built connections with upload page, two pages are already satisfied the requirements.
+   - this is how it works
+   <p align="center">
+     <img src="upload.png" width="80%">
+     <img src="result.png" width="80%">
+   </p>
 
 ### meanings of the files
 * upload.php this file need to create uploads/ directory as its firtst line targetdir is uploads/ which is the directory where the uploaded pictures will go. If you wanna see how it goes in your computer environment, please:
@@ -28,3 +34,8 @@ Notice this part is used for final presentation so it should be made as fluent a
     If it still doesn't work, you may check the uploads folder's privilege. You need to change it to be able to written by other users. Use shell command **chmod o+w uploads** to finish this.
   
     If anymore issues existing for you, send me issues.
+* result.php is the result page, shows the result. Three buttons are provided: read caption, play the existed audio file, stop caption, stop the audio and return, return to the upload page. The background of the result page is the original uploaded picture and shows the processed picture in the middle with 75% width. Notice **now in the upload page when you clicked upload button, 5 seconds later the result page will show up so all things must be done in a given time limit**.
+
+If you wanna use it, put testSound.wav and seass.jpg under the uploads folder created in point one, and try upload an image. After you are in the result page, click three buttons to test the functions.
+
+If any more issues existed, send it.
