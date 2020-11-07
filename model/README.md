@@ -11,16 +11,9 @@
 * list some notices for users
 
 -xwf
-* run model on ubuntu
-* the picture of recognization have been uploaded in the directory of screenshots(some results are not very precise)
-* the whole codes are in the following links ：https://pan.baidu.com/s/1pDjHQoH_DmVHs3bdPnPFCA   keys：5201 (if you are interested,you can run them on your ubuntu
-* the following commands are required:
-* ..........................................
-* python app.py
-* 8    % means that you can test 8 pictures this time,also you can change it into 1, 3, 9 ,or other number
-* pic/cat.jpg   % input your picture's relative path
-* ...........................................
-* then wait a few seconds you can see the recognisation result
+* Optimize the module which has been run last week
+* Configuring environment issues is really time consuming
+* actually nothing substantial
 
 -shr
 * download the MS-COCO dataset, can be used to train and test
