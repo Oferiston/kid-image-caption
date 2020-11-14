@@ -1,7 +1,7 @@
 <?php
   if(isset($_GET['per'])) {
-    $per=$_GET['per'];
-    if($per>0&&$per<7) {
+    $per = $_GET['per'];
+    if($per>0 && $per<7) {
       $per=$per;
     }
   }
