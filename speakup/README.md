@@ -12,3 +12,4 @@
 Request format：
 https://api.vvhan.com/api/song?txt=content
 -The occurrence part has been basically completed, and then encapsulated into a function
+Set up a php environment, writing function
