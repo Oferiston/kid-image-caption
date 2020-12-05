@@ -11,9 +11,9 @@
 * list some notices for users
 
 -xwf
-* Optimize the module which has been run last week
-* Configuring environment issues is really time consuming
-* actually nothing substantial
+* find a project which has source code, and I have followed the instructions to redisplayed it
+* just two step to the victory, but I don't quite understand the errors so I do not know how to solve them
+* I had asked the leader huang for help, maybe he can solve it
 
 -shr
 * download the MS-COCO dataset, can be used to train and test
